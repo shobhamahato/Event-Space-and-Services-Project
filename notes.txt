@@ -1,0 +1,19 @@
+
+        <!-- Category Dropdown -->
+        <!-- <div class="col-md-3">
+            <div class="input-group custom-input">
+                <span class="input-group-text">
+                    <i class="fa fa-list"></i>
+                </span>
+                <select class="form-select">
+                    <option selected disabled>Category</option>
+                    <option value="wedding">Wedding</option>
+                    <option value="birthday">Birthday</option>
+                    <option value="corporate">Corporate</option>
+                    <option value="festival">Festival</option>
+                </select>
+            </div>
+        </div> -->
+            <!-- <span class="ms-3 text-white fw-semibold">
+          <?php echo $user; ?> 
+        </span> -->
